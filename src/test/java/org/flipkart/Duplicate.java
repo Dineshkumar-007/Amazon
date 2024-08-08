@@ -3,7 +3,7 @@ package org.flipkart;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
 import java.util.Set;
-
+import java.*;
 public class Duplicate {
 	public static void main (String[] args) {
 		String unique ="";
